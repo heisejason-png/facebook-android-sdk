@@ -166,5 +166,4 @@ DEVELOPER TERMS
   applicable (https://www.facebook.com/ad_guidelines.php).
 
 By using the Facebook SDK for Android you agree to these terms.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
