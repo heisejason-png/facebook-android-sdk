@@ -167,3 +167,4 @@ DEVELOPER TERMS
 
 By using the Facebook SDK for Android you agree to these terms.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
